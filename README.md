@@ -1,0 +1,1 @@
+To use the app, open up the terminal and type "npx expo start". This will create a QR code to scan with the Expo Go app. Once in, you can add things to a To-Do list. These tasks can also be edited and deleted
